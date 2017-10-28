@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <link rel="shortcut icon" href="/startup/flat-ui/images/favicon.ico">
+        
+        <link rel="stylesheet" href="/startup/flat-ui/bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" href="/startup/flat-ui/css/flat-ui.css">
+        <!-- Using only with Flat-UI (free)-->
+        <link rel="stylesheet" href="/startup/common-files/css/icon-font.css">
+        <!-- end -->
+        <link rel="stylesheet" href="/startup/common-files/css/animations.css">
+        <link rel="stylesheet" href="static/css/style.css">
+        
+        <title>Wecode - A community of software developers in Abuja. We write code and build awesome stuff</title>
+    </head>
+
+    <body>
+        <div class="page-wrapper"><section class="header-14-sub">
+    <div class="background">&nbsp;</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <div class="header-14">
+                    <span class=""> </span>
+                    <div>COMING SOON</div>
+                </div>
+                <div class="hero-unit">
+                    <!--<h1>Wecode</h1>-->
+                    <h1>Let's build awesome software together</h1>
+                    
+                </div>
+                <h3>We are a community of technology enthusiasts, entrepreneurs and software developers in Abuja</h3>
+                <!--<p>We are a community of technology enthusiasts, entrepreneurs and software developers residing and/or working in Abuja.</p>-->
+                <!--<div class="row">
+                    <div class="subscribe-form col-sm-8 col-sm-offset-2">
+                        <form>
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="mr.madbyte@gmail.com">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-primary" type="button">Notify Me</button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="content-36  bg-midnight-blue">
+    <div class="container">
+        <h2>We hold monthly meetup and coding session</h2>
+        <a class="btn btn-success" href="https://goo.gl/forms/QujbzPZ3YkrnCUgh2" target="blank">Join our next meetup</a>
+        <p>Learn. Network. Build</p>
+    </div>
+</section>
+
+<section class="content-18">
+    <div class="container">
+        <div id="c-18_myCarousel" class="carousel slide" data-interval="600000">
+            <div class="controls">
+                <a class="carousel-control left disabled" href="#" data-slide="prev"> </a>
+                <a class="carousel-control right" href="#c-18_myCarousel" data-slide="next"> </a>
+            </div>
+            <div class="carousel-inner">
+                <div class="item active">
+                    <div class="quote-text">
+                    <div class="quote-text">
+                        The community has been awesome and I have met and worked with solid people in the community
+                    </div>
+                    <div class="quote-author">@ozoesono, Omosigho Ozo-Eson</div>
+                </div>
+                <div class="item">
+                    <div class="quote-text">
+                        Colored, stylish icons can easily be modified and used in a wide variety of projects
+                    </div>
+                    <div class="quote-author">@stSilent, DesignModo.com</div>
+                </div>
+                <div class="item">
+                    <div class="quote-text">
+                        Colored, stylish icons can easily be modified and used in a wide variety of projects
+                    </div>
+                    <div class="quote-author">@stSilent, DesignModo.com</div>
+                </div>
+            </div>
+        </div>
+        <!--<div class="row quotes">
+            <div class="col-sm-3">
+                <h6>@mc</h6>
+                Easy to change and easy to create new elements with color.
+            </div>
+            <div class="col-sm-4 col-sm-offset-1">
+                <h6>@madbyte</h6>
+                Awesome Kit. It’s more easiest way to make my /startup. Thanks!
+            </div>
+            <div class="col-sm-3 col-sm-offset-1">
+                <h6>@stSilent</h6>
+                Create new elements with color swatches. Wow!
+            </div>
+        </div>-->
+    </div>
+</section>
+
+<footer class="footer-2 bg-midnight-blue">
+    <div class="container">
+        <nav class="pull-left">
+            <!--<ul>
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">Company</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>-->
+        </nav>
+        <div class="social-btns pull-right">
+            <a href="#">
+                <div class="fui-vimeo"></div>
+                <div class="fui-vimeo"></div>
+            </a>
+            <a href="#">
+                <div class="fui-facebook"></div>
+                <div class="fui-facebook"></div>
+            </a>
+            <a href="#">
+                <div class="fui-twitter"></div>
+                <div class="fui-twitter"></div>
+            </a>
+        </div>
+        <div class="additional-links">
+            <!--Be sure to take a look at our <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a>-->
+        </div>
+    </div>
+</footer>            <!-- Placed at the end of the document so the pages load faster -->
+            <script src="/startup/common-files/js/jquery-1.10.2.min.js"></script>
+            <script src="/startup/common-files/js/jquery.bxslider.min.js"></script>
+            <script src="/startup/common-files/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+            <script src="/startup/common-files/js/jquery.sharrre.min.js"></script>
+            <script src="/startup/flat-ui/js/bootstrap.min.js"></script>
+            <script src="/startup/common-files/js/masonry.pkgd.min.js"></script>
+            <script src="/startup/common-files/js/modernizr.custom.js"></script>
+            <script src="/startup/common-files/js/page-transitions.js"></script>
+            <script src="/startup/common-files/js/easing.min.js"></script>
+            <script src="/startup/common-files/js/jquery.svg.js"></script>
+            <script src="/startup/common-files/js/jquery.svganim.js"></script>
+            <script src="/startup/common-files/js/jquery.backgroundvideo.min.js"></script>
+            <script src="/startup/common-files/js/froogaloop.min.js"></script>
+            <script src="/startup/common-files/js//startup-kit.js"></script>
+        </div>
+    </body>
+</html>
